@@ -1,22 +1,28 @@
-# Unity Project
+<div align="center">
+<h1> Unity Project </h1>
 
 This repo is my unity learning roadmap.
 
 Check all my submission, gameplay, project video, skills and badges.
 
-## My profile URL: [Unity.com/sertacnn](https://learn.unity.com/u/sertacnn/?tab=profile)
+### My profile URL: [Unity.com/sertacnn/profile](https://learn.unity.com/u/sertacnn/?tab=profile)
 
-## Table of Contents
+### My all submission: [unity.com/sertacnn/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
+
+</div>
+<h3> Table of Contents </h3>
 
 _All contents have live gameplay/video and what i learned section_
 
-- [Prototype 1](#prototype---1)
-- [Prototype 2](#prototype---2)
-- [Cube Challange](#cube-challenge)
+- Create With Code 1
+  - [Prototype 1](#prototype---1)
+  - [Prototype 2](#prototype---2)
+  - [Cube Challange](#cube-challenge)
 
-### Prototype - 1
+## Prototype - 1
 
-Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/650357ededbc2a49f3e53e14)
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/650357ededbc2a49f3e53e14)<br>
+_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
 
 ### What I learned
 
@@ -25,9 +31,10 @@ Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/6
 - Camera controller and basic character movement script.
 - Rigidbody components.
 
-### Prototype - 2
+## Prototype - 2
 
-Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/6539befbedbc2a15676910dc)
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/6539befbedbc2a15676910dc)<br>
+_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
 
 ### What I learned
 
@@ -42,9 +49,10 @@ Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/6
 - Characters life bar (when objects shoot 3 projectile, destroy).
 - Prefabs, Materials
 
-### Cube Challenge
+## Cube Challenge
 
-Gameplay URL: [play.unity](https://play.unity.com/mg/other/build-w8j)
+Gameplay URL: [play.unity](https://play.unity.com/mg/other/build-w8j)<br>
+_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
 
 ### What I learned
 
