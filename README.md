@@ -17,12 +17,16 @@ _All contents have live gameplay/video and what i learned section_
 - Create With Code 1
   - [Prototype 1](#prototype---1)
   - [Prototype 2](#prototype---2)
-  - [Cube Challange](#cube-challenge)
+  - [Cube Challange - Playable](#cube-challenge)
+- Create With Code 2
+  - [Prototype 3 - Playable](#prototype---3)
 
-## Prototype - 1
+<div align = "center"> <h1>Create With Code 1 </h1></div>
 
-Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/650357ededbc2a49f3e53e14)<br>
-_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
+### Prototype - 1
+
+![](./screenshot/prototype_1.jpg)
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
 ### What I learned
 
@@ -31,10 +35,9 @@ _if link doesnt work please check [My all submission link](https://learn.unity.c
 - Camera controller and basic character movement script.
 - Rigidbody components.
 
-## Prototype - 2
+### Prototype - 2
 
-Video URL/more info: [Unity.com/submission](https://learn.unity.com/submission/6539befbedbc2a15676910dc)<br>
-_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
 ### What I learned
 
@@ -52,10 +55,39 @@ _if link doesnt work please check [My all submission link](https://learn.unity.c
 ## Cube Challenge
 
 Gameplay URL: [play.unity](https://play.unity.com/mg/other/build-w8j)<br>
-_if link doesnt work please check [My all submission link](https://learn.unity.com/u/sertacnn/?tab=submissions)_
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
 ### What I learned
 
 - OpenGL build
 - Unity build option for other platform
 - Unity package manager
+
+<div align = "center"> <h1>Create With Code 2 </h1></div>
+
+### Prototype - 3
+
+Gameplay URL: [play.unity](https://play.unity.com/mg/other/builds-10-6)<br>
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
+
+### What I learned
+
+- GetComponent
+- ForceMode.Impulse
+- Physics.Gravity
+- Rigidbody constraints
+- Rigidbody variables
+- OnCollisionEnter()
+- Repeat background
+- Get Collider width
+- Script communication
+- CompareTag()
+- Animation Controllers
+- Animation States, Layers, and Transitions
+- Animation parameters
+- Animation programming
+- SetTrigger(), SetBool(), SetInt()
+- Particle systems
+- Child object positioning
+- Audio clips and Audio sources
+- Play and stop sound effects
