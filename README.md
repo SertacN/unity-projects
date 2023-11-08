@@ -25,7 +25,7 @@ _All contents have live gameplay/video and what i learned section_
 
 ### Prototype - 1
 
-![](./screenshot/prototype_1.jpg)
+![](./screenshot/prototype_1.jpg) <br>
 Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
 ### What I learned
@@ -37,6 +37,7 @@ Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?
 
 ### Prototype - 2
 
+![](./screenshot/prototype_2.jpg) <br>
 Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
 ### What I learned
@@ -67,6 +68,7 @@ Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?
 
 ### Prototype - 3
 
+![](./screenshot/prototype_3.jpg) <br>
 Gameplay URL: [play.unity](https://play.unity.com/mg/other/builds-10-6)<br>
 Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
 
