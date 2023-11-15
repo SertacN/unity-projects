@@ -20,6 +20,7 @@ _All contents have live gameplay/video and what i learned section_
   - [Cube Challange - Playable](#cube-challenge)
 - Create With Code 2
   - [Prototype 3 - Playable](#prototype---3)
+  - [Sumo Battle](#sumo-battle)
 
 <div align = "center"> <h1>Create With Code 1 </h1></div>
 
@@ -93,3 +94,24 @@ Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?
 - Child object positioning
 - Audio clips and Audio sources
 - Play and stop sound effects
+
+### Sumo Battle
+
+![](./screenshot/sumo_battle.jpg) <br>
+Gameplay URL: [play.unity](https://play.unity.com/mg/other/webbuild-254)<br>
+Video URL/more info: [Unity.com/submission](https://learn.unity.com/u/sertacnn/?tab=submissions)
+
+### What I learned
+
+- Texture Wraps
+- Get direction of other object
+- Physics Materials
+- Defining vectors in 3D space
+- Normalizing values
+- Debug concatenation
+- Local component variables
+- IEnumerators and WaitForSeconds()
+- Coroutines
+- SetActive(true/false)
+- For-loops
+- FindObjectsOfType
